@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Gestione_Ferramenta.props" />
+</Project>

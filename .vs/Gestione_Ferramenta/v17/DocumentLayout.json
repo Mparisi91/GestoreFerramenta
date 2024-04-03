@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\source\\repos\\Gestione_Ferramenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF762C1-29F4-48E2-97D8-D1D85EDFDE88}|Gestione_Ferramenta\\Gestione_Ferramenta.csproj|c:\\users\\utente\\source\\repos\\gestione_ferramenta\\gestione_ferramenta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF762C1-29F4-48E2-97D8-D1D85EDFDE88}|Gestione_Ferramenta\\Gestione_Ferramenta.csproj|solutionrelative:gestione_ferramenta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF762C1-29F4-48E2-97D8-D1D85EDFDE88}|Gestione_Ferramenta\\Gestione_Ferramenta.csproj|c:\\users\\utente\\source\\repos\\gestione_ferramenta\\gestione_ferramenta\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DF762C1-29F4-48E2-97D8-D1D85EDFDE88}|Gestione_Ferramenta\\Gestione_Ferramenta.csproj|solutionrelative:gestione_ferramenta\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF762C1-29F4-48E2-97D8-D1D85EDFDE88}|Gestione_Ferramenta\\Gestione_Ferramenta.csproj|c:\\users\\utente\\source\\repos\\gestione_ferramenta\\gestione_ferramenta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DF762C1-29F4-48E2-97D8-D1D85EDFDE88}|Gestione_Ferramenta\\Gestione_Ferramenta.csproj|solutionrelative:gestione_ferramenta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF762C1-29F4-48E2-97D8-D1D85EDFDE88}|Gestione_Ferramenta\\Gestione_Ferramenta.csproj|c:\\users\\utente\\source\\repos\\gestione_ferramenta\\gestione_ferramenta\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DF762C1-29F4-48E2-97D8-D1D85EDFDE88}|Gestione_Ferramenta\\Gestione_Ferramenta.csproj|solutionrelative:gestione_ferramenta\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF762C1-29F4-48E2-97D8-D1D85EDFDE88}|Gestione_Ferramenta\\Gestione_Ferramenta.csproj|c:\\users\\utente\\source\\repos\\gestione_ferramenta\\gestione_ferramenta\\repos\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF762C1-29F4-48E2-97D8-D1D85EDFDE88}|Gestione_Ferramenta\\Gestione_Ferramenta.csproj|solutionrelative:gestione_ferramenta\\repos\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF762C1-29F4-48E2-97D8-D1D85EDFDE88}|Gestione_Ferramenta\\Gestione_Ferramenta.csproj|c:\\users\\utente\\source\\repos\\gestione_ferramenta\\gestione_ferramenta\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF762C1-29F4-48E2-97D8-D1D85EDFDE88}|Gestione_Ferramenta\\Gestione_Ferramenta.csproj|solutionrelative:gestione_ferramenta\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF762C1-29F4-48E2-97D8-D1D85EDFDE88}|Gestione_Ferramenta\\Gestione_Ferramenta.csproj|c:\\users\\utente\\source\\repos\\gestione_ferramenta\\gestione_ferramenta\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF762C1-29F4-48E2-97D8-D1D85EDFDE88}|Gestione_Ferramenta\\Gestione_Ferramenta.csproj|solutionrelative:gestione_ferramenta\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF762C1-29F4-48E2-97D8-D1D85EDFDE88}|Gestione_Ferramenta\\Gestione_Ferramenta.csproj|c:\\users\\utente\\source\\repos\\gestione_ferramenta\\gestione_ferramenta\\models\\gestioneferramentacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF762C1-29F4-48E2-97D8-D1D85EDFDE88}|Gestione_Ferramenta\\Gestione_Ferramenta.csproj|solutionrelative:gestione_ferramenta\\models\\gestioneferramentacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF762C1-29F4-48E2-97D8-D1D85EDFDE88}|Gestione_Ferramenta\\Gestione_Ferramenta.csproj|c:\\users\\utente\\source\\repos\\gestione_ferramenta\\gestione_ferramenta\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF762C1-29F4-48E2-97D8-D1D85EDFDE88}|Gestione_Ferramenta\\Gestione_Ferramenta.csproj|solutionrelative:gestione_ferramenta\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Gestione_Ferramenta\\Gestione_Ferramenta\\Program.cs",
+              "RelativeDocumentMoniker": "Gestione_Ferramenta\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Gestione_Ferramenta\\Gestione_Ferramenta\\Program.cs",
+              "RelativeToolTip": "Gestione_Ferramenta\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:55:28.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Gestione_Ferramenta\\Gestione_Ferramenta\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Gestione_Ferramenta\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Gestione_Ferramenta\\Gestione_Ferramenta\\appsettings.Development.json",
+              "RelativeToolTip": "Gestione_Ferramenta\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T13:38:38.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Gestione_Ferramenta\\Gestione_Ferramenta\\appsettings.json",
+              "RelativeDocumentMoniker": "Gestione_Ferramenta\\appsettings.json",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Gestione_Ferramenta\\Gestione_Ferramenta\\appsettings.json",
+              "RelativeToolTip": "Gestione_Ferramenta\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T13:38:34.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Gestione_Ferramenta\\Gestione_Ferramenta\\Repos\\IRepo.cs",
+              "RelativeDocumentMoniker": "Gestione_Ferramenta\\Repos\\IRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Gestione_Ferramenta\\Gestione_Ferramenta\\Repos\\IRepo.cs",
+              "RelativeToolTip": "Gestione_Ferramenta\\Repos\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:20:12.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdottoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Gestione_Ferramenta\\Gestione_Ferramenta\\Repos\\ProdottoRepo.cs",
+              "RelativeDocumentMoniker": "Gestione_Ferramenta\\Repos\\ProdottoRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Gestione_Ferramenta\\Gestione_Ferramenta\\Repos\\ProdottoRepo.cs",
+              "RelativeToolTip": "Gestione_Ferramenta\\Repos\\ProdottoRepo.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwHoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:18:15.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Gestione_Ferramenta\\Gestione_Ferramenta\\Models\\Prodotto.cs",
+              "RelativeDocumentMoniker": "Gestione_Ferramenta\\Models\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Gestione_Ferramenta\\Gestione_Ferramenta\\Models\\Prodotto.cs",
+              "RelativeToolTip": "Gestione_Ferramenta\\Models\\Prodotto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:11:07.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdottoController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Gestione_Ferramenta\\Gestione_Ferramenta\\Controllers\\ProdottoController.cs",
+              "RelativeDocumentMoniker": "Gestione_Ferramenta\\Controllers\\ProdottoController.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Gestione_Ferramenta\\Gestione_Ferramenta\\Controllers\\ProdottoController.cs",
+              "RelativeToolTip": "Gestione_Ferramenta\\Controllers\\ProdottoController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:10:38.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Gestione_Ferramenta\\Gestione_Ferramenta\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Gestione_Ferramenta\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Gestione_Ferramenta\\Gestione_Ferramenta\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Gestione_Ferramenta\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T13:38:40.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GestioneFerramentaContext.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Gestione_Ferramenta\\Gestione_Ferramenta\\Models\\GestioneFerramentaContext.cs",
+              "RelativeDocumentMoniker": "Gestione_Ferramenta\\Models\\GestioneFerramentaContext.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Gestione_Ferramenta\\Gestione_Ferramenta\\Models\\GestioneFerramentaContext.cs",
+              "RelativeToolTip": "Gestione_Ferramenta\\Models\\GestioneFerramentaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:07:38.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
